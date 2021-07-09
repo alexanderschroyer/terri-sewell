@@ -1,0 +1,14 @@
+
+
+div {
+    display: inline-flex;
+}
+
+.flex-one {
+    border: 2px solid black;
+    
+}
+
+.flex-two {
+    border: 2px ridge black;
+}
